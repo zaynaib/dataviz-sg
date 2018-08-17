@@ -1,1 +1,1 @@
-# dataviz-ggplot2
+# dataviz study group repository 
